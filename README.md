@@ -1,4 +1,4 @@
-# CineSocial Hub
+# MovieKing
 
 Web Link: https://movie-social-hub.netlify.app
 
